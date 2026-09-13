@@ -44,7 +44,7 @@ export default function Home() {
         className="flex flex-wrap gap-7 mt-12 pt-8 border-t border-line text-sm"
       >
         <a
-          href="https://github.com/YOUR-USERNAME"
+          href="https://github.com/akshatbhutra"
           target="_blank"
           rel="noopener"
           className="link-underline text-ink"
@@ -52,7 +52,7 @@ export default function Home() {
           GitHub
         </a>
         <a
-          href="https://linkedin.com/in/YOUR-USERNAME"
+          href="https://linkedin.com/in/akshatbhutra"
           target="_blank"
           rel="noopener"
           className="link-underline text-ink"
